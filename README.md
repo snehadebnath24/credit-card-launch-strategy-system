@@ -34,8 +34,8 @@ The bank needs to identify **which customer segments to target** and **what prod
    - Compared adoption and profitability outcomes under different strategies.  
 
 4. **Dashboard & Decision Support**  
-   - Streamlit dashboard connected to PostgreSQL.  
-   - KPIs: adoption rate, average monthly spend, revenue uplift, risk exposure.  
+   - Power BI.  
+   - KPIs: adoption rate, average monthly spend, revenue uplift, total spend.  
    - Filters for income bracket, credit segment, and region.  
 
 ---
